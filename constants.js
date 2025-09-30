@@ -1,4 +1,3 @@
-// constants.js
 const STATUS_CODES = {
   BAD_REQUEST: 400,
   UNAUTHORIZED: 401,
