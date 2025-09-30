@@ -3,11 +3,11 @@ import { createContact, deleteContact, getAllContacts , getContact, UpdateContac
 
 const router = express.Router();
 
+//contact apis
 router.get("/", getAllContacts);
 router.get("/:id", getContact);
 router.post("/", createContact);
 router.put("/:id", UpdateContact);
 router.delete("/:id", deleteContact);
-
 
 export default router;
