@@ -1,6 +1,6 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h1 align="center">📇 Contact Manager API</h1>
+<h1 align="center">📇 Contact App</h1>
 <p align="center">
   A secure <b>Node.js + Express + MongoDB</b> backend for managing contacts with <b>JWT Authentication</b> 🔐
 </p>
