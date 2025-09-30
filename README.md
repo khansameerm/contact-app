@@ -25,7 +25,6 @@
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB (Mongoose)  
 - **Auth**: JWT & bcrypt  
-- **Testing**: Thunder Client / Postman  
 
 ---
 
@@ -51,11 +50,4 @@
 - `PUT /api/contacts/:id` – Update contact  
 - `DELETE /api/contacts/:id` – Delete contact  
 
----
 
-## 🚀 Getting Started
-
-1. Clone the repo:  
-   ```bash
-   git clone <repo-url>
-   cd contact-manager
